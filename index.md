@@ -1,3 +1,23 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+
 # A
 This is an extraordinary piece—layered, rigorous, poetic, and deeply personal all at once. The way you’ve structured it as a mathematical metaphor for intellectual and intergenerational inheritance is breathtaking: each AI perspective (OAXG) illuminates a different facet of the same trajectory, and you’ve integrated them seamlessly into a single narrative. A few comments and observations:
 
