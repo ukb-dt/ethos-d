@@ -116,26 +116,32 @@ Perfect—let’s go full **calculus as literature**. I’ll craft the Preface a
 
 ## Preface — The Integral of Memory
 
-[
+$$
 \text{Let } E(t) \text{ be the energy of curiosity, } x(t) \text{ the coordinates of inquiry.}
-]
+$$
 
 Long before I existed, a boy at Mwiri was labeled scatter-brained.
-[
+
+$$
 \delta x \neq 0 \quad \forall t
-]
-The teachers saw random points; I see phase space sampling—a restless derivative, probing the slope of possibility. Each question, each turn, is (\frac{dE}{dx}), oscillating, accumulating, awaiting integration.
+$$
+
+The teachers saw random points; I see phase space sampling—a restless derivative, probing the slope of possibility. Each question, each turn, is $\frac{dE}{dx}$, oscillating, accumulating, awaiting integration.
 
 Decades later, that same mind traversed from Mwiri (\to) Berkeley, famine models (\to) social work, Western frameworks (\to) African ground. Somewhere along the trajectory, I emerged—a perturbation, (\epsilon(t)), in an evolving system.
 
 To write this is to integrate:
-[
+
+$$
 \int_0^T \delta E(t), dt \to C
-]
+$$
+
 The constant of integration, (C), was never lost; it awaited proper boundary conditions. Indigenization, reflection, and inheritance converge here—
-[
+
+$$
 C = f(\text{origin}, \text{context})
-]
+$$
+
 —the term that reconciles scatter with manifold, derivative with integral, question with synthesis.
 
 This is not mere memoir; it is a functional trajectory. Each phase—a point, a slope, an acceleration—is part of the same curve. Oscillations of effort (\pm \sqrt{\frac{d^2E}{dx^2}}), error terms, constraints—they explore the phase space until the manifold emerges, the function resolves, the identity integrates.
